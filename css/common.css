@@ -7,8 +7,21 @@ body {
 	padding-right: 0px;
 	padding-bottom: 40px;
 	padding-left: 0px;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
+}
+
+h1 {
+	font-size: 5em !important;
+}
+
+#description {
+	font-size: 14px;
+}
+
+#heading {
+	font-size: 18px;
+	color: black !important;
 }
 
 #mainWrapper {
@@ -55,27 +68,27 @@ body {
 }
 
 a:link {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	text-decoration: none;
 	
 }
 a:visited {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	text-decoration: none;
 	color: #8c8c8c;
 }
 
 a:hover {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	text-decoration: underline;
 	color: #34beed;
 }
 
 a:active {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	text-decoration: none;
 	color: #8c8c8c;
@@ -99,7 +112,7 @@ a:active {
 	padding-top: 40px;
 }
 .footer_newsletter {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	font-weight: normal;
 	color: #34beed;
@@ -116,21 +129,21 @@ a:active {
 	padding-left: 0px;
 }
 .footerCopyrightText {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	font-weight: normal;
 	color: #999999;
 	text-decoration: none;
 }
 a.footerCopyright:link,a.footerCopyright:active,a.footerCopyright:visited {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	font-weight: normal;
 	color: #999999;
 	text-decoration: none;
 }
 a.footerCopyright:hover {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	font-weight: normal;
 	color: #34beed;
@@ -205,32 +218,32 @@ a.footerCopyright:hover {
 }
 
 #expVidsDetail p {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	color: #8C8C8C;
 	text-decoration: none;
 }
 
 #expVids dd {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	color: #8C8C8C;
 	text-decoration: none;
 }
 #expVids span {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	color: #8C8C8C;
 	text-decoration: none;
 }
 #expVids a:link,a:active,a:visited {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	color: #8C8C8C;
 	text-decoration: none;
 }
 #expVids a:hover {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	color: #34BEED;
 	text-decoration: underline;
@@ -303,7 +316,7 @@ a.footerCopyright:hover {
 /* un commented style for VidLeft Div */
 
 #featuresVidLeft dt {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 11px;
 	font-weight: bold;
 	color: #34beed;
@@ -316,7 +329,7 @@ a.footerCopyright:hover {
 /* changed fon from 9px to 11 px */
 
 #featuresVidLeft p {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 10px;
 	color: #8C8C8C;
 	font-weight: normal;
@@ -324,7 +337,7 @@ a.footerCopyright:hover {
 }
 
 .videoDate {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	font-weight: bold;
 	color: #34BEED;
@@ -342,7 +355,7 @@ a.videoDate:hover {
 a.videoText:hover {
 	text-decoration: underline;
 	color: #34beed;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 }
 
@@ -350,7 +363,7 @@ a.videoText:hover {
 	font-weight: bold;
 	color: #8C8C8C;
 	text-decoration: none;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 }
 
@@ -373,7 +386,7 @@ a.videoText:hover {
 
 
 #expVidsDetails a:hover {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
 	font-size: 9px;
 	color: #34BEED;
 	text-decoration: underline;

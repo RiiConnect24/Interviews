@@ -47,7 +47,6 @@
 .middle_L {
 	padding-left: 50px;
 	padding-right: 30px;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #666666;
 	text-align: left;
@@ -57,7 +56,6 @@
 .middle_R {
 	padding-left: 30px;
 	padding-right: 50px;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #666666;
 	text-align: left;
